@@ -1,7 +1,5 @@
 package Exercise2;
 
-import Exercise3.Movement;
-
 public class Bird implements Flight{
     private String type;
 

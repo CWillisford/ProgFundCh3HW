@@ -1,7 +1,5 @@
 package Exercise2;
 
-import Exercise3.Movement;
-
 public class Airplane implements Flight {
     private String model;
     private int yearBuilt;
